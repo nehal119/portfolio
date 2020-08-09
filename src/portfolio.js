@@ -148,6 +148,14 @@ const skills = {
           },
         },
         {
+          skillName: "TypeScript",
+          fontAwesomeClassname: "simple-icons:typescript",
+          style: {
+            backgroundColor: "#ffffff",
+            color: "#007acc",
+          },
+        },
+        {
           skillName: "ReactJS",
           fontAwesomeClassname: "simple-icons:react",
           style: {
@@ -441,6 +449,15 @@ const certifications = {
         "https://www.freecodecamp.org/certification/nehal119/javascript-algorithms-and-data-structures",
       alt_name: "JavaScript Algorithms and Data Structures",
       color_code: "#2e7540",
+    },
+    {
+      title: "HTML and CSS Course",
+      subtitle: "- BitDegree Foundation VSI",
+      logo_path: "bitdegree.png",
+      certificate_link:
+        "https://drive.google.com/file/d/13f-eFZPaX77ceUkSUFRmr_uihSmP7_ID/view?usp=sharing",
+      alt_name: "HTML and CSS Course",
+      color_code: "#000000",
     },
     {
       title: "Modern React Bootcamp",

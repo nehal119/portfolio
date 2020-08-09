@@ -4,7 +4,9 @@ import SocialMedia from "../../components/socialMedia/SocialMedia";
 import Button from "../../components/button/Button";
 import { greeting } from "../../portfolio";
 import { Fade } from "react-reveal";
-import FeelingProud from "./FeelingProud";
+// import FeelingProud from "./FeelingProud";
+// import ProgressiveApp from "./ProgressiveApp";
+import DevProd from "./DevProd";
 
 export default function Greeting(props) {
   const theme = props.theme;
@@ -47,7 +49,9 @@ export default function Greeting(props) {
 							alt="saad sitting on table"
 							src={require("../../assests/images/feelingProud.svg")}
 						></img> */}
-            <FeelingProud theme={theme} />
+            {/* <FeelingProud theme={theme} /> */}
+            {/* <ProgressiveApp theme={theme} /> */}
+            <DevProd theme={theme} />
           </div>
         </div>
       </div>
