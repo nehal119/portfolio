@@ -5,7 +5,7 @@
 - In case you want to help developing it or simply saving it, you can fork the repository just by clicking the button on the top-right corner of this page.
 - After the successful installation of `nodejs` and `npm`, clone the repository into your local system using below command:
   - ```python
-     git clone https://github.com/ashutosh1919/masterPortfolio.git
+     git clone https://github.com/nehal119/awesome-portfolio.git
     ```
   - This will clone the whole repository in your system.
 - To download required dependencies to your system, navigate to the directory where the cloned repository resides and execute following command:
@@ -65,7 +65,7 @@ node git_data_fetcher.js
 This will fetch all the data from your github and it will automatically replace my data with yours.
 Whenever you want to update the github related information on the website you need to run this command.
 
-### Splash Logo
+<!-- ### Splash Logo
 
 Note here that if you click [my portfolio](https://ashutosh1919.github.io), you can see animating the logo at the beginning. I have designed that logo in [`Figma`](https://www.figma.com/) and then animated it using css.
 Therefore, this part of portfolio is not customizable. But don't worry we have a solution to this problem. You have below two alternatives:
@@ -82,7 +82,7 @@ Therefore, this part of portfolio is not customizable. But don't worry we have a
     ```
   - Change `isSplash` from `true` to `false`.
   - Now, if you see your website using `npm start`, it will directly open `home` rather than animating logo `splash` screen.
-  - If you design your logo in future, then edit the files in `./src/components/Loader` and then revert `isSplash` to `true` in `src/portfolio.js`.
+  - If you design your logo in future, then edit the files in `./src/components/Loader` and then revert `isSplash` to `true` in `src/portfolio.js`. -->
 
 # Choose Theme 🌈
 
@@ -134,7 +134,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](./LICENSE)
 
 # Contributing 💡
 
-If you can help us with these. Please don't hesitate to open an [pull request](https://github.com/ashutosh1919/masterPortfolio/pulls) or [issue](https://github.com/ashutosh1919/masterPortfolio/issues).
+If you can help us with these. Please don't hesitate to open an [pull request](https://github.com/nehal119/awesome-portfolio/pulls) or [issue](https://github.com/nehal119/awesome-portfolio/issues).
 
 - Move to Gatsby
 - Add Podcast Section and Video Section
