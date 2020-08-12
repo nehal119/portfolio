@@ -57,7 +57,7 @@ class Contact extends Component {
           <Fade bottom duration={1000} distance="40px">
             <div className="blog-heading-div">
               <div className="blog-heading-text-div">
-                <h1 className="blog-heading-text" style={{ color: theme.text }}>
+                {/* <h1 className="blog-heading-text" style={{ color: theme.text }}>
                   {blogSection["title"]}
                 </h1>
                 <p
@@ -73,26 +73,19 @@ class Contact extends Component {
                     href={blogSection.link}
                     theme={theme}
                   />
-                </div>
+                </div> */}
               </div>
               <div className="blog-heading-img-div">
                 {/* <img
 											src={require(`../../assests/images/${blogSection["avatar_image_path"]}`)}
 											alt=""
 										/> */}
-                <BlogsImg theme={theme} />
+                {/* <BlogsImg theme={theme} /> */}
               </div>
             </div>
           </Fade>
           <Fade bottom duration={1000} distance="40px">
             <div className="address-heading-div">
-              <div className="contact-heading-img-div">
-                {/* <img
-											src={require(`../../assests/images/${addressSection["avatar_image_path"]}`)}
-											alt=""
-										/> */}
-                <AddressImg theme={theme} />
-              </div>
               <div className="address-heading-text-div">
                 <h1
                   className="address-heading-text"
@@ -126,6 +119,13 @@ class Contact extends Component {
                     theme={theme}
                   />
                 </div>
+              </div>
+              <div className="contact-heading-img-div">
+                {/* <img
+											src={require(`../../assests/images/${addressSection["avatar_image_path"]}`)}
+											alt=""
+										/> */}
+                <AddressImg theme={theme} />
               </div>
             </div>
           </Fade>

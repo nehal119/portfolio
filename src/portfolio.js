@@ -11,9 +11,8 @@ const greeting = {
   logo_name: "Nehal Ahmad",
   nickname: "",
   subTitle:
-    "A passionate individual who always thrive to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
-  resumeLink:
-    "#",
+    "A passionate individual who thrives to work on end-to-end products to develop sustainable and scalable social and technical systems to create an impact.",
+  resumeLink: "#",
   portfolio_repository: "https://github.com/nehal119/awesome-portfolio",
 };
 
@@ -109,10 +108,10 @@ const skills = {
     //   ],
     // },
     {
-      title: "Full Stack Development",
+      title: "Full-Stack Development",
       fileName: "FullStackImg",
       skills: [
-        "⚡ Building resposive website front end using React-Redux",
+        "⚡ Building responsive website front-end using React-Redux",
         // "⚡ Developing mobile applications using Flutter, React Native and solo android apps using Kotlin",
         "⚡ Creating application backend with Node, Express, Golang & GraphQL",
         "⚡ Managing databases using MongoDB, PostgreSQL & InfluxDB",
@@ -320,7 +319,7 @@ const skills = {
       title: "UI/UX Design",
       fileName: "DesignImg",
       skills: [
-        "⚡ Designing highly attractive user interface for mobile and web applications",
+        "⚡ Designing attractive user interface for mobile and web applications",
         "⚡ Customizing logo designs and building logos from scratch",
         "⚡ Creating the flow of application functionalities to optimize user experience",
       ],
@@ -429,7 +428,7 @@ const degrees = {
       duration: "2016 - 2019",
       descriptions: [
         "⚡ I have studied mathematical subjects like Linear Algebra, Statistics, Advanced Calculus etc along with computer science subjects like Data Structures, C, Cryptography, Automata Theory etc.",
-        "⚡ Apart from this, I have done courses on Full Stack Development, Data Analysis and Cloud Computing.",
+        "⚡ Apart from this, I have done courses on Full-Stack Development, Data Analysis and Cloud Computing.",
         "⚡ I scored 9.4 CGPA",
       ],
       website_link: "https://www.jmi.ac.in/",
@@ -601,7 +600,7 @@ const experience = {
   // subtitle: "Work, Internship and Volunteership",
   subtitle: "",
   description:
-    "I have worked with many software technologies like Golang, JavaScript, and Python. I have built beautiful User Interfaces and applications with the best User Experiences possible. I have also worked with some startup companies mostly as Software Developer. I love open-source projects and that is why I am also involved with some opensource communities.",
+    "I have worked with many software technologies like Golang, JavaScript, and Python. I have built various User Interfaces and applications with the best User Experiences possible. I have also worked with some startup companies mostly as a Software Developer. I love open-source projects and hence I am also involved with some open-source communities.",
   header_image_path: "experience.svg",
   sections: [
     {
@@ -615,7 +614,7 @@ const experience = {
           duration: "Aug 2020 - PRESENT",
           location: "Dwarka, New Delhi",
           description:
-            "I am a full stack Software Developer in Centilea Power Pvt. Ltd. While working with the company I worked on many projects covering real time dashboard development, monitoring, processing and sending data, building UI, building servers, generating databases and a lot more.",
+            "I am a full-stack Software Developer in Centilea Power Pvt. Ltd. While working with the company I worked on many projects covering real-time dashboard development, monitoring, processing and sending data, building UI, building servers, generating databases and much more.",
           color: "#0879bf",
         },
         {
@@ -626,7 +625,7 @@ const experience = {
           duration: "Jan 2020 - July 2020",
           location: "Dwarka, New Delhi",
           description:
-            "I worked on projects covering real time dashboard development, building UI, servers, databases etc. I experienced the real time start up. I learnt the Design thinking of UI on perspective of People.",
+            "I worked on projects covering real-time dashboard development, building UI, servers, databases etc. I learnt the Design-thinking of UI from the perspective of people.",
           color: "#0879bf",
         },
         // {
@@ -749,7 +748,7 @@ const experience = {
 const projectsHeader = {
   title: "Projects",
   description:
-    "My projects makes use of vast variety of latest technology tools. My best experience is to create Full Stack web applications and deploy them using cloud infrastructure.",
+    "My projects make use of a variety of latest technology tools. My best experience is in creating Full-Stack web applications and deploying them using cloud infrastructure.",
   avatar_image_path: "projects_image.svg",
 };
 
@@ -759,7 +758,7 @@ const contactPageData = {
     title: "Contact Me",
     profile_image_path: "animate-nehal1.svg",
     description:
-      "I am available on almost every social media. You can message me, I will reply within 24 hours. I can help you with React, Node, GraphQL, Golang, Angular, XD, Databases, Cloud and Opensource Development.",
+      "You can find me on various social media platforms. I usually reply within 24 hours. I can help you with React, Node, GraphQL, Golang, Angular, XD, Databases, Cloud and Open-source Development.",
   },
   blogSection: {
     title: "Blogs",
@@ -770,8 +769,7 @@ const contactPageData = {
   },
   addressSection: {
     title: "Address",
-    subtitle:
-      "110025 New Delhi, India",
+    subtitle: "110025 New Delhi, India",
     avatar_image_path: "address_image.svg",
     location_map_link: "#",
   },
