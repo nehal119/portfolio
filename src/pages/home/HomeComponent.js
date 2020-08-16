@@ -6,7 +6,6 @@ import Footer from "../../components/footer/Footer";
 
 class Home extends Component {
   render() {
-    console.log(this.props.theme);
     return (
       <div>
         <Header theme={this.props.theme} />

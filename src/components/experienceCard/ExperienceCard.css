@@ -12,7 +12,7 @@
   margin: 10px;
   align-items: center;
   justify-content: center;
-  background-color: #084C61;
+  background-color: #084c61;
 }
 
 .experience-card-body-div {
@@ -120,6 +120,7 @@
 
   .experience-card-logo {
     width: 100px;
+    height: 40px;
   }
 
   .experience-card-body-div {

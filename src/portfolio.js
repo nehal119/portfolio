@@ -448,15 +448,6 @@ const certifications = {
       color_code: "#2e7540",
     },
     {
-      title: "JavaScript Algorithms and Data Structures",
-      subtitle: "- freeCodeCamp",
-      logo_path: "free-code-camp-logo.png",
-      certificate_link:
-        "https://www.freecodecamp.org/certification/nehal119/javascript-algorithms-and-data-structures",
-      alt_name: "JavaScript Algorithms and Data Structures",
-      color_code: "#2e7540",
-    },
-    {
       title: "HTML and CSS Course",
       subtitle: "- BitDegree Foundation VSI",
       logo_path: "bitdegree.png",
@@ -466,6 +457,15 @@ const certifications = {
       color_code: "#000000",
     },
     {
+      title: "JavaScript Algorithms and Data Structures",
+      subtitle: "- freeCodeCamp",
+      logo_path: "free-code-camp-logo.png",
+      certificate_link:
+        "https://www.freecodecamp.org/certification/nehal119/javascript-algorithms-and-data-structures",
+      alt_name: "JavaScript Algorithms and Data Structures",
+      color_code: "#2e7540",
+    },
+    {
       title: "Modern React Bootcamp",
       subtitle: "- Colt Steele",
       logo_path: "udemy.png",
@@ -473,6 +473,14 @@ const certifications = {
         "https://udemy-certificate.s3.amazonaws.com/image/UC-QERDOEV0.jpg",
       alt_name: "Modern React Bootcamp",
       color_code: "#F4F4F4",
+    },
+    {
+      title: "React Certificate",
+      subtitle: "- HackerRank",
+      logo_path: "hackerrank-logo.png",
+      certificate_link: "https://www.hackerrank.com/certificates/39208f709f32",
+      alt_name: "React Certificate",
+      color_code: "#000000",
     },
     {
       title: "Advanced Web Developer Bootcamp",

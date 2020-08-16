@@ -5,13 +5,14 @@ import { socialMediaLinks } from "../../portfolio";
 export default function socialMedia() {
   return (
     <div className="social-media-div">
-      {socialMediaLinks.map((media) => {
+      {socialMediaLinks.map((media, index) => {
         return (
           <a
             href={media.link}
             className={`icon-button ${media.className}`}
             target="_blank"
             rel="noopener noreferrer"
+            key={index}
           >
             <i className={`fab ${media.fontAwesomeIcon}`}></i>
             <span></span>
