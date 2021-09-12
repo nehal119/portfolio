@@ -23,52 +23,8 @@
       "name": "portfolio",
       "createdAt": "2020-08-04T03:50:38Z",
       "url": "https://github.com/nehal119/portfolio",
-      "description": "Live preview available",
+      "description": "Live: https://nehal119.github.io/",
       "isFork": false,
-      "languages": [
-        {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
-        },
-        {
-          "name": "HTML",
-          "iconifyClass": "logos-html-5"
-        },
-        {
-          "name": "CSS",
-          "iconifyClass": "logos-css-3"
-        }
-      ]
-    },
-    {
-      "id": "MDEwOlJlcG9zaXRvcnkyMTI3ODE2MTY=",
-      "name": "material-dashboard-react",
-      "createdAt": "2019-10-04T09:39:57Z",
-      "url": "https://github.com/nehal119/material-dashboard-react",
-      "description": "React version of Material Dashboard by Creative Tim",
-      "isFork": true,
-      "languages": [
-        {
-          "name": "HTML",
-          "iconifyClass": "logos-html-5"
-        },
-        {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
-        },
-        {
-          "name": "CSS",
-          "iconifyClass": "logos-css-3"
-        }
-      ]
-    },
-    {
-      "id": "MDEwOlJlcG9zaXRvcnkyMTAxMzA1ODc=",
-      "name": "mern-exercise-tracker-mongodb",
-      "createdAt": "2019-09-22T10:43:49Z",
-      "url": "https://github.com/nehal119/mern-exercise-tracker-mongodb",
-      "description": "MERN exercise tracker - code for tutorial",
-      "isFork": true,
       "languages": [
         {
           "name": "JavaScript",
@@ -99,30 +55,31 @@
         {
           "name": "CSS",
           "iconifyClass": "logos-css-3"
-        },
-        {
-          "name": "HTML",
-          "iconifyClass": "logos-html-5"
         }
       ]
     },
     {
-      "id": "MDEwOlJlcG9zaXRvcnkyODE2NjEyNDg=",
-      "name": "react-range-slider",
-      "createdAt": "2020-07-22T11:40:00Z",
-      "url": "https://github.com/nehal119/react-range-slider",
+      "id": "MDEwOlJlcG9zaXRvcnkzMzQxMTU3NTA=",
+      "name": "arcgis-grafana-plugin",
+      "createdAt": "2021-01-29T10:47:13Z",
+      "url": "https://github.com/nehal119/arcgis-grafana-plugin",
       "description": null,
       "isFork": false,
       "languages": [
         {
-          "name": "HTML",
-          "iconifyClass": "logos-html-5"
-        },
-        {
-          "name": "CSS",
-          "iconifyClass": "logos-css-3"
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
         }
       ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkzNTQzNDQ4OTI=",
+      "name": "go-mongodb-starter",
+      "createdAt": "2021-04-03T16:50:35Z",
+      "url": "https://github.com/nehal119/go-mongodb-starter",
+      "description": null,
+      "isFork": false,
+      "languages": []
     }
   ]
 }
