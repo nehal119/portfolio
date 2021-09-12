@@ -125,13 +125,6 @@ const skills = {
           },
         },
         {
-          skillName: "CSS3",
-          fontAwesomeClassname: "fa-css3",
-          style: {
-            color: "#1572B6",
-          },
-        },
-        {
           skillName: "Sass",
           fontAwesomeClassname: "simple-icons:sass",
           style: {
@@ -162,27 +155,6 @@ const skills = {
           },
         },
         {
-          skillName: "AngularJS",
-          fontAwesomeClassname: "simple-icons:angular",
-          style: {
-            color: "#B52E31",
-          },
-        },
-        {
-          skillName: "VueJS",
-          fontAwesomeClassname: "simple-icons:vuejs",
-          style: {
-            color: "#41B883",
-          },
-        },
-        {
-          skillName: "Bootstrap",
-          fontAwesomeClassname: "simple-icons:bootstrap",
-          style: {
-            color: "#553c7b",
-          },
-        },
-        {
           skillName: "NodeJS",
           fontAwesomeClassname: "simple-icons:node-dot-js",
           style: {
@@ -210,27 +182,6 @@ const skills = {
             color: "#47A248",
           },
         },
-        {
-          skillName: "NPM",
-          fontAwesomeClassname: "simple-icons:npm",
-          style: {
-            color: "#CB3837",
-          },
-        },
-        {
-          skillName: "Yarn",
-          fontAwesomeClassname: "simple-icons:yarn",
-          style: {
-            color: "#2C8EBB",
-          },
-        },
-        {
-          skillName: "Gatsby",
-          fontAwesomeClassname: "simple-icons:gatsby",
-          style: {
-            color: "#663399",
-          },
-        },
       ],
     },
     {
@@ -243,13 +194,6 @@ const skills = {
         "⚡ Setting up streaming jobs from DB to Server",
       ],
       softwareSkills: [
-        // {
-        //   skillName: "GCP",
-        //   fontAwesomeClassname: "simple-icons:googlecloud",
-        //   style: {
-        //     color: "#4285F4",
-        //   },
-        // },
         {
           skillName: "AWS",
           fontAwesomeClassname: "simple-icons:amazonaws",
@@ -278,41 +222,6 @@ const skills = {
             color: "#288f28",
           },
         },
-        // {
-        //   skillName: "Azure",
-        //   fontAwesomeClassname: "simple-icons:microsoftazure",
-        //   style: {
-        //     color: "#0089D6",
-        //   },
-        // },
-        // {
-        //   skillName: "Firebase",
-        //   fontAwesomeClassname: "simple-icons:firebase",
-        //   style: {
-        //     color: "#FFCA28",
-        //   },
-        // },
-        {
-          skillName: "PostgreSQL",
-          fontAwesomeClassname: "simple-icons:postgresql",
-          style: {
-            color: "#336791",
-          },
-        },
-        {
-          skillName: "MongoDB",
-          fontAwesomeClassname: "simple-icons:mongodb",
-          style: {
-            color: "#47A248",
-          },
-        },
-        // {
-        //   skillName: "Kubernetes",
-        //   fontAwesomeClassname: "simple-icons:kubernetes",
-        //   style: {
-        //     color: "#326CE5",
-        //   },
-        // },
       ],
     },
     {
@@ -345,20 +254,6 @@ const skills = {
             color: "#2D3246",
           },
         },
-        // {
-        //   skillName: "Adobe Illustrator",
-        //   fontAwesomeClassname: "simple-icons:adobeillustrator",
-        //   style: {
-        //     color: "#FF7C00",
-        //   },
-        // },
-        // {
-        //   skillName: "Inkscape",
-        //   fontAwesomeClassname: "simple-icons:inkscape",
-        //   style: {
-        //     color: "#000000",
-        //   },
-        // },
       ],
     },
   ],
@@ -407,19 +302,30 @@ const competitiveSites = {
       },
       profileLink: "https://www.hackerearth.com/@mohammadamiramir773",
     },
-    // {
-    //   siteName: "Kaggle",
-    //   iconifyClassname: "simple-icons:kaggle",
-    //   style: {
-    //     color: "#20BEFF",
-    //   },
-    //   profileLink: "https://www.kaggle.com/laymanbrother",
-    // },
+    {
+      siteName: "Kaggle",
+      iconifyClassname: "simple-icons:kaggle",
+      style: {
+        color: "#20BEFF",
+      },
+      profileLink: "https://www.kaggle.com/nehal119/",
+    },
   ],
 };
 
 const degrees = {
   degrees: [
+    {
+      title: "Jamia Millia Islamia, New Delhi",
+      subtitle: "Master of Computer Applications",
+      logo_path: "jmi_logo.png",
+      alt_name: "JMI New Delhi",
+      duration: "2020 - 2022",
+      descriptions: [
+        "⚡ I have studied various computer science subjects like Database Management Systems, Software Engineering, Advanced Data Structures, Data Mining And Warehousing, Artificial Intelligence, Machine Learning etc.",
+      ],
+      website_link: "https://www.jmi.ac.in/",
+    },
     {
       title: "Jamia Millia Islamia, New Delhi",
       subtitle: "BSc. in Mathematics",

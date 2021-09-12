@@ -1,1 +1,27 @@
-{"data":[],"open":0,"closed":0,"totalCount":0}
+{
+  "closed": 1,
+  "data": [
+    {
+      "id": "MDU6SXNzdWU2OTY1MDk4Nzk=",
+      "closed": true,
+      "title": "Plugin not showing in grafana",
+      "createdAt": "2020-09-09T07:10:43Z",
+      "url": "https://github.com/grafana/google-sheets-datasource/issues/112",
+      "number": 112,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "google-sheets-datasource",
+        "url": "https://github.com/grafana/google-sheets-datasource",
+        "owner": {
+          "login": "grafana",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/7195757?v=4",
+          "url": "https://github.com/grafana"
+        }
+      }
+    }
+  ],
+  "open": 0,
+  "totalCount": 1
+}
